@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D70E39D4-2EF5-4087-9F86-33D8FACF9CE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="76" Column="29" />
+      <File FileName="Controllers/AuthenticationController.cs" Line="141" Column="30" />
+      <File FileName="Controllers/OrderController.cs" Line="29" Column="26" />
+      <File FileName="CSharpIDP.csproj" Line="22" Column="1" />
+      <File FileName="WeatherForecast.cs" Line="13" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="CSharpIDP" expanded="True">
+            <Node name="CSharpIDP" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSharpIDP PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
